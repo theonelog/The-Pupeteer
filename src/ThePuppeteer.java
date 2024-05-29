@@ -21,7 +21,7 @@ import java.util.concurrent.TimeUnit;
 /*
    the main class that creates a game instance and runs it. 
 */
-public class FamilyTiesADetectiveGame_AlQuraini{
+public class ThePuppeteer{
    public static void main(String[] args) {
       System.out.println("                        T H E    P U P P E T E E R");
       System.out.println("");
