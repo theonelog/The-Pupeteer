@@ -9,7 +9,7 @@ JAVADOC IN THE STORY RELATED CLASSES WILL BE MINIMAL AND WILL ONLY EXPLAIN HOW C
 
 ^IMPORTANT!^
 
-@author Awni AlQuraini Period 5 DS
+@author theonelog
 
 imports are the ones neccessary for the program to run
 
